@@ -36,7 +36,7 @@ which verifies the card number by using Luhn's Algorithm and flag the legitness 
 
 <div align="center">
 
-![My skills](https://skillicons.dev/icons?i=java,python,flutter,html,css,vscode,mysql,github&theme=dark)
+![My skills](https://skillicons.dev/icons?i=c,java,python,flutter,html,css,vscode,mysql,github,git&theme=dark)
 
 </div>
 
@@ -46,7 +46,7 @@ which verifies the card number by using Luhn's Algorithm and flag the legitness 
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=agbjs22&theme=tokyonight&hide_border=true)
+[![Streak](https://streak-stats.demolab.com?user=agbjs22)](https://git.io/streak-stats)
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agbjs22&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
 
