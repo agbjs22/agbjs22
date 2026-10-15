@@ -44,3 +44,10 @@
   <br /><br />
   <code>// let's build something together</code>
 </div>
+
+<h2><code>~/connect</code></h2>
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agbjs22&theme=rose-pine" alt="GitHub Streak" /></a>
+</div>
+
