@@ -13,6 +13,7 @@
   "building": [
     "Smart Accident Detection &amp; Emergency Alerting (IoT)",
     "InternWorth (NLP internship scorer)"
+    "MovieMingle (Collaborative filtering based recommendation system)"
   ],
   "leadership": [
     "Secretary, EVS Club",
