@@ -12,7 +12,7 @@
   "studying": "B.Tech Information Technology (class of 2028)",
   "building": [
     "Smart Accident Detection &amp; Emergency Alerting (IoT)",
-    "InternWorth (NLP internship scorer)"
+    "InternWorth (NLP internship scorer)",
     "MovieMingle (Collaborative filtering based recommendation system)"
   ],
   "leadership": [
