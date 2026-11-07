@@ -25,6 +25,13 @@
 <g clip-path="url(#r1)"><rect x="16" y="214" width="868" height="3" fill="#FBBF24" opacity=".15"/><rect x="-200" y="214" width="220" height="3" fill="url(#sh)"><animate attributeName="x" from="-220" to="900" dur="2.4s" repeatCount="indefinite"/></rect></g>
 <rect x="8" y="230" width="884" height="70" rx="12" fill="#0D1424" stroke="#1E2A44"/>
 <circle cx="36" cy="258" r="6" fill="#34D399"></circle>
+<text x="58" y="182" font-size="17" font-weight="700" fill="#E2E8F0">MovieMingle</text>
+<text x="58" y="203" font-size="13" fill="#7C8AA5">Movie recommendation system using Collaborative filtering</text>
+<text x="872" y="180" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#38BDF8">Python · FastAPI · React </text>
+<text x="872" y="202" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" letter-spacing="2" fill="#FBBF24">IN PROGRESS</text>
+<g clip-path="url(#r1)"><rect x="16" y="214" width="868" height="3" fill="#FBBF24" opacity=".15"/><rect x="-200" y="214" width="220" height="3" fill="url(#sh)"><animate attributeName="x" from="-220" to="900" dur="2.4s" repeatCount="indefinite"/></rect></g>
+<rect x="8" y="230" width="884" height="70" rx="12" fill="#0D1424" stroke="#1E2A44"/>
+<circle cx="36" cy="258" r="6" fill="#34D399"></circle>
 <text x="58" y="262" font-size="17" font-weight="700" fill="#E2E8F0">Orbital-Grove</text>
 <text x="58" y="283" font-size="13" fill="#7C8AA5">Microgravity crop simulator comparing 0G, Moon, Mars and Earth yields</text>
 <text x="872" y="260" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#38BDF8">HTML · CSS · JS (Canvas/SVG)</text>
