@@ -17,13 +17,13 @@
 <circle cx="82" cy="30" r="7" fill="#28C840"/>
 <text x="450" y="35" text-anchor="middle" font-size="13" fill="#7C8AA5">gbjs@tiruchirappalli: ~</text>
 <text x="34" y="96" font-size="19" fill="#38BDF8" font-weight="400" clip-path="url(#c0)" xml:space="preserve">$ whoami</text>
-<text x="34" y="124" font-size="19" fill="#E2E8F0" font-weight="700" clip-path="url(#c1)" xml:space="preserve">guha bava jaya sre a  (aka gbjs)</text>
+<text x="34" y="124" font-size="19" fill="#E2E8F0" font-weight="700" clip-path="url(#c1)" xml:space="preserve">Guha Bava Jaya Sre A  (aka gbjs)</text>
 <text x="34" y="170" font-size="19" fill="#38BDF8" font-weight="400" clip-path="url(#c2)" xml:space="preserve">$ cat education.txt</text>
 <text x="34" y="198" font-size="19" fill="#E2E8F0" font-weight="400" clip-path="url(#c3)" xml:space="preserve">B.Tech IT @ K. Ramakrishnan College of Engineering</text>
 <text x="34" y="244" font-size="19" fill="#38BDF8" font-weight="400" clip-path="url(#c4)" xml:space="preserve">$ ls ./focus</text>
-<text x="34" y="272" font-size="19" fill="#34D399" font-weight="400" clip-path="url(#c5)" xml:space="preserve">iot/   nlp/   full-stack/   flutter/</text>
-<text x="34" y="318" font-size="19" fill="#38BDF8" font-weight="400" clip-path="url(#c6)" xml:space="preserve">$ echo $MISSION</text>
-<text x="34" y="346" font-size="19" fill="#FBBF24" font-weight="400" clip-path="url(#c7)" xml:space="preserve">build things that solve real problems</text>
+<text x="34" y="272" font-size="19" fill="#34D399" font-weight="400" clip-path="url(#c5)" xml:space="preserve">java/   nlp/   full-stack/   flutter/</text>
+<text x="34" y="318" font-size="19" fill="#38BDF8" font-weight="400" clip-path="url(#c6)" xml:space="preserve">$ echo $BIO</text>
+<text x="34" y="346" font-size="19" fill="#FBBF24" font-weight="400" clip-path="url(#c7)" xml:space="preserve">Learn, Adapt over Halt</text>
 <text x="34" y="396" font-size="19" fill="#38BDF8" opacity="0">$ <animate attributeName="opacity" from="0" to="1" begin="10.4s" dur="0.01s" fill="freeze"/></text>
 <rect x="58" y="380" width="11" height="22" fill="#34D399" opacity="0"><animate attributeName="opacity" values="1;0;1" dur="1s" begin="10.4s" repeatCount="indefinite"/></rect>
 </svg>
