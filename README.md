@@ -49,6 +49,6 @@
 <h2><code>~/stats</code></h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=agbjs22&theme=rose-pine" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=agbjs22" alt="GitHub Streak" /></a>
 </div>
 
